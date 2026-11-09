@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/derrick-and-sons-plumbing-douglasville/sitemap.xml
+Sitemap: https://local-business-guides.github.io/derrick-and-sons-plumbing-douglasville/news-sitemap.xml
